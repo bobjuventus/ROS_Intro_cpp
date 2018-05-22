@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="test_package" type="simple" name="ObiWan"  output="screen">
+    </node>
+</launch>
